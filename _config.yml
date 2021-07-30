@@ -1,3 +1,10 @@
 theme: jekyll-theme-architect
 title: Protosam
 description: He makes code or something...
+highlights:
+  - text: Digital Ocean IP Bouncer
+    url: https://github.com/protosam/digitalocean-ip-bouncer
+  - text: go-libnss
+    url: https://github.com/protosam/digitalocean-ip-bouncer
+  - text: Scalable Delivery
+    url: https://github.com/scalabledelivery
